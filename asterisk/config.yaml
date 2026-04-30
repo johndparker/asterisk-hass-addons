@@ -1,5 +1,5 @@
 name: Asterisk JP Test
-version: 6.2.0
+version: JP-1
 breaking_versions:
   - 6.0.0
   - 5.1.0
