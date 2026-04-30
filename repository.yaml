@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Asterisk Add-on
+name: Asterisk Add-on (JP Test)
 url: "https://github.com/johndparker/asterisk-hass-addons"
 maintainer: John Parker <johndpar@gmail.com>
